@@ -1,0 +1,62 @@
+2024-11-10 12:38:40,854 - INFO - 創建臨時目錄: C:\Users\1028h\AppData\Local\Temp\whisper_li7t894s
+2024-11-10 12:43:32,504 - INFO - 創建臨時目錄: C:\Users\1028h\AppData\Local\Temp\whisper_u8c9e3jh
+2024-11-10 12:43:59,772 - INFO - 選擇資料夾: C:\Users\1028h\OneDrive\桌面\Speech2Text
+2024-11-10 12:44:07,662 - INFO - 選擇資料夾: C:\Users\1028h\OneDrive\桌面\錄音
+2024-11-10 12:44:09,199 - INFO - 處理文件: C:\Users\1028h\OneDrive\桌面\錄音\新錄音 130.mp3
+2024-11-10 12:44:09,199 - INFO - 臨時文件路徑: C:\Users\1028h\AppData\Local\Temp\whisper_u8c9e3jh\temp_1731213849.199193_新錄音 130.mp3
+2024-11-10 12:44:09,212 - INFO - 開始轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_u8c9e3jh\temp_1731213849.199193_新錄音 130.mp3
+2024-11-10 12:44:21,558 - INFO - 成功轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_u8c9e3jh\temp_1731213849.199193_新錄音 130.mp3
+2024-11-10 13:52:49,513 - INFO - 創建臨時目錄: C:\Users\1028h\AppData\Local\Temp\whisper_z7l4_lwr
+2024-11-10 13:54:04,974 - INFO - 選擇資料夾: C:\Users\1028h\OneDrive\桌面\錄音
+2024-11-10 13:54:06,099 - INFO - 處理文件: C:\Users\1028h\OneDrive\桌面\錄音\新錄音 130.mp3
+2024-11-10 13:54:06,099 - INFO - 臨時文件路徑: C:\Users\1028h\AppData\Local\Temp\whisper_z7l4_lwr\temp_1731218046.099208_新錄音 130.mp3
+2024-11-10 13:54:06,114 - INFO - 開始轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_z7l4_lwr\temp_1731218046.099208_新錄音 130.mp3
+2024-11-10 13:54:20,308 - INFO - 成功轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_z7l4_lwr\temp_1731218046.099208_新錄音 130.mp3
+2024-11-10 13:58:35,636 - INFO - 創建臨時目錄: C:\Users\1028h\AppData\Local\Temp\whisper_4z77c1ho
+2024-11-10 14:18:49,796 - INFO - 創建臨時目錄: C:\Users\1028h\AppData\Local\Temp\whisper_cazf42hx
+2024-11-10 14:21:09,251 - INFO - 創建臨時目錄: C:\Users\1028h\AppData\Local\Temp\whisper_llk_rnzb
+2024-11-10 14:21:19,143 - INFO - 選擇資料夾: C:\Users\1028h\OneDrive\桌面\錄音
+2024-11-10 14:22:45,250 - INFO - 創建臨時目錄: C:\Users\1028h\AppData\Local\Temp\whisper_xjw_0ye3
+2024-11-10 14:22:59,043 - INFO - 處理文件: C:\Users\1028h\OneDrive\桌面\錄音\新錄音 130.mp3
+2024-11-10 14:22:59,061 - INFO - 開始轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_xjw_0ye3\temp_1731219779.043178_新錄音 130.mp3
+2024-11-10 14:23:10,372 - INFO - 成功轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_xjw_0ye3\temp_1731219779.043178_新錄音 130.mp3
+2024-11-10 14:34:52,191 - INFO - 處理文件: C:\Users\1028h\OneDrive\桌面\錄音\錄製 (2).mp3
+2024-11-10 14:34:52,197 - INFO - 開始轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_xjw_0ye3\temp_1731220492.191176_錄製 (2).mp3
+2024-11-10 14:34:56,859 - INFO - 成功轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_xjw_0ye3\temp_1731220492.191176_錄製 (2).mp3
+2024-11-10 14:34:56,859 - INFO - 處理文件: C:\Users\1028h\OneDrive\桌面\錄音\錄製 (3).mp3
+2024-11-10 14:34:56,859 - INFO - 開始轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_xjw_0ye3\temp_1731220496.859979_錄製 (3).mp3
+2024-11-10 14:36:29,640 - INFO - 成功轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_xjw_0ye3\temp_1731220496.859979_錄製 (3).mp3
+2024-11-10 14:36:29,656 - INFO - 處理文件: C:\Users\1028h\OneDrive\桌面\錄音\錄製 (4).mp3
+2024-11-10 14:36:29,666 - INFO - 開始轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_xjw_0ye3\temp_1731220589.656788_錄製 (4).mp3
+2024-11-10 15:22:40,535 - INFO - 創建臨時目錄: C:\Users\1028h\AppData\Local\Temp\whisper_0y6zsvs5
+2024-11-10 15:22:53,589 - INFO - 處理文件: C:\Users\1028h\OneDrive\桌面\錄音\新錄音 130.mp3
+2024-11-10 15:22:53,596 - INFO - 開始轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_0y6zsvs5\temp_1731223373.5898194_新錄音 130.mp3
+2024-11-10 15:23:01,797 - INFO - 成功轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_0y6zsvs5\temp_1731223373.5898194_新錄音 130.mp3
+2024-11-10 15:23:01,797 - INFO - 處理文件: C:\Users\1028h\OneDrive\桌面\錄音\錄製 (2).mp3
+2024-11-10 15:23:01,797 - INFO - 開始轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_0y6zsvs5\temp_1731223381.7973042_錄製 (2).mp3
+2024-11-10 15:23:58,469 - INFO - 成功轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_0y6zsvs5\temp_1731223381.7973042_錄製 (2).mp3
+2024-11-10 15:23:58,469 - INFO - 處理文件: C:\Users\1028h\OneDrive\桌面\錄音\錄製 (3).mp3
+2024-11-10 15:23:58,477 - INFO - 開始轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_0y6zsvs5\temp_1731223438.469043_錄製 (3).mp3
+2024-11-10 15:25:43,053 - INFO - 成功轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_0y6zsvs5\temp_1731223438.469043_錄製 (3).mp3
+2024-11-10 15:25:43,053 - INFO - 處理文件: C:\Users\1028h\OneDrive\桌面\錄音\錄製 (4).mp3
+2024-11-10 15:25:43,069 - INFO - 開始轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_0y6zsvs5\temp_1731223543.0538461_錄製 (4).mp3
+2024-11-10 15:28:12,004 - INFO - 成功轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_0y6zsvs5\temp_1731223543.0538461_錄製 (4).mp3
+2024-11-10 15:28:12,004 - INFO - 處理文件: C:\Users\1028h\OneDrive\桌面\錄音\錄製.mp3
+2024-11-10 15:28:12,020 - INFO - 開始轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_0y6zsvs5\temp_1731223692.0043619_錄製.mp3
+2024-11-10 15:28:18,104 - INFO - 成功轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_0y6zsvs5\temp_1731223692.0043619_錄製.mp3
+2024-11-10 15:34:06,591 - INFO - 創建臨時目錄: C:\Users\1028h\AppData\Local\Temp\whisper_o82l9a_x
+2024-11-10 15:34:19,162 - INFO - 處理文件: C:\Users\1028h\OneDrive\桌面\錄音\新錄音 130.mp3
+2024-11-10 15:34:19,162 - INFO - 開始轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_o82l9a_x\temp_1731224059.1625752_新錄音 130.mp3
+2024-11-10 15:34:26,566 - INFO - 成功轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_o82l9a_x\temp_1731224059.1625752_新錄音 130.mp3
+2024-11-10 15:34:26,582 - INFO - 處理文件: C:\Users\1028h\OneDrive\桌面\錄音\錄製 (2).mp3
+2024-11-10 15:34:26,582 - INFO - 開始轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_o82l9a_x\temp_1731224066.5825062_錄製 (2).mp3
+2024-11-10 15:35:09,649 - INFO - 成功轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_o82l9a_x\temp_1731224066.5825062_錄製 (2).mp3
+2024-11-10 15:35:09,649 - INFO - 處理文件: C:\Users\1028h\OneDrive\桌面\錄音\錄製 (3).mp3
+2024-11-10 15:35:09,665 - INFO - 開始轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_o82l9a_x\temp_1731224109.6496654_錄製 (3).mp3
+2024-11-10 15:35:43,240 - INFO - 成功轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_o82l9a_x\temp_1731224109.6496654_錄製 (3).mp3
+2024-11-10 15:35:43,240 - INFO - 處理文件: C:\Users\1028h\OneDrive\桌面\錄音\錄製 (4).mp3
+2024-11-10 15:35:43,284 - INFO - 開始轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_o82l9a_x\temp_1731224143.2408102_錄製 (4).mp3
+2024-11-10 15:39:05,367 - INFO - 成功轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_o82l9a_x\temp_1731224143.2408102_錄製 (4).mp3
+2024-11-10 15:39:05,367 - INFO - 處理文件: C:\Users\1028h\OneDrive\桌面\錄音\錄製.mp3
+2024-11-10 15:39:05,367 - INFO - 開始轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_o82l9a_x\temp_1731224345.3677979_錄製.mp3
+2024-11-10 15:39:11,653 - INFO - 成功轉錄文件: C:\Users\1028h\AppData\Local\Temp\whisper_o82l9a_x\temp_1731224345.3677979_錄製.mp3
